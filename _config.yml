@@ -1,0 +1,14 @@
+layout_spectrum: 0.2363535228651017
+typography_spectrum: 0.5167568752076477
+color:
+  brandStrength: 0.14235019776970148
+  lightness: 0.6990344184450805
+  saturation: 0.3767162053845823
+  rhythmicContrast: 0.2553037041798234
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: immidi-home
